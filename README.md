@@ -1,6 +1,6 @@
-# 🧮 Intro to Python; Calculator Assignment – PLP COhort 6 Assignment
+# 🐍Intro to Python; Calculator Assignment – PLP COhort 6 Assignment
 
-## 📌 Objective
+## 🎯 Objective
 
 This assignment helps us practice writing simple Python programs.  
 We focus on using:
@@ -9,7 +9,7 @@ We focus on using:
 - **Variables**
 - **Basic data types**
 
-## ✅ Requirements
+## 🛠️ Requirements
 
 Before starting this assignment, make sure you have the following set up:
 
@@ -20,7 +20,7 @@ Before starting this assignment, make sure you have the following set up:
 
 ---
 
-## 🧾 Task Description
+## 📝 Task Description
 
 We created a **simple calculator** using Python.
 
@@ -33,7 +33,7 @@ This helps us learn how to write programs that interact with users.
 
 ---
 
-## 💡 Example
+## 🧾 Example
 
 If a user types:
 - First number: `10`
